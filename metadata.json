@@ -1,0 +1,6 @@
+{
+  "name": "Egg Thief - Bậc Thầy Trộm Trứng",
+  "description": "Game luyện thi tiếng Anh vào lớp 10 với 40 Unit chuẩn Global Success & Destination B1, cơ chế đột nhập ổ rồng trộm trứng, ấp thú huyền thoại, đấu trường PvP và luyện nói AI.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
